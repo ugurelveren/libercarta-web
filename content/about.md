@@ -57,7 +57,6 @@ We're just getting started.
 You can:
 
 - [Submit your work](https://tally.so/r/wdgoQA)
-- Recommend an indie book you love
 - Follow us for updates and new features
 - Or simply read, explore, and support the authors here
 
