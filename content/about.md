@@ -7,7 +7,7 @@ layout = "single"
 url = "/about/"
 description = "Learn about Libercarta, a curated space for independent authors and bold books. Discover our mission, who it's for, and how to get involved."
 keywords = ["Libercarta", "About", "Indie Authors", "Independent Publishing", "Book Community"]
-authorbox = true
+authorbox = false
 +++
 
 **LiberCarta** is a home for independent voices and the stories they dare to tell.
@@ -38,7 +38,7 @@ Whether you've published a chapbook, an experimental novel, a children's bedtime
 
 We keep it simple:
 
-1. Indie authors submit their work via our [submission form](https://yourformlink.com)
+1. Indie authors submit their work via our [submission form](https://tally.so/r/wdgoQA)
 2. We review, lightly curate, and feature books and authors on this site
 3. Readers explore and connect through books, bios, and future conversations
 
@@ -56,7 +56,7 @@ We're just getting started.
 
 You can:
 
-- [Submit your work](https://yourformlink.com)
+- [Submit your work](https://tally.so/r/wdgoQA)
 - Recommend an indie book you love
 - Follow us for updates and new features
 - Or simply read, explore, and support the authors here
