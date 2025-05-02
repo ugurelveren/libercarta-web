@@ -1,4 +1,44 @@
 baseurl = "/"
 languageCode = 'en-us'
-title = "Mainroad"
+title = "LiberCarta"
 theme = "expresslane"
+
+[Params]
+    copyright = "LiberCarta"
+    description = "LiberCarta is where indie stories live. Discover bold books. Support independent authors."
+    opengraph = true 
+    schema = true 
+    twitter_cards = true 
+    authorbox = true
+    pager = true
+
+  [Params.author]
+    name = "Liber Carta"
+    bio = "Liber Carta is a quiet advocate for independent voices in publishing. Built to celebrate indie authors and their stories, Libre Carta curates, connects, and champions books that deserve to be seen."
+
+
+[Params.logo]
+  title = "LiberCarta" # Logo title, otherwise will use site title
+  subtitle = "Independent by Design"
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social"]
+
+[menus]
+  [[menus.main]]
+    name = "About"
+    url = "/about"
+    weight = 50
+  [[menus.main]]
+    name = "Books"
+    url = "/categories/books/"
+    weight = 10
+  [[menus.main]]
+    name = "Authors"
+    url = "/categories/authors/"
+    weight = 10
+
