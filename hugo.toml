@@ -23,8 +23,8 @@ theme = "expresslane"
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
-  single = false # Configure layout for single pages
+  list = "right"  # Configure layout for list pages
+  single = true # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["search", "recent", "categories", "taglist", "social"]
 
@@ -34,11 +34,19 @@ theme = "expresslane"
     url = "/about"
     weight = 50
   [[menus.main]]
+    name = "Blog"
+    url = "/posts"
+    weight = 40
+  [[menus.main]]
     name = "Books"
     url = "/categories/books/"
-    weight = 10
+    weight = 20
   [[menus.main]]
     name = "Authors"
     url = "/categories/authors/"
     weight = 10
+  [[menus.main]]
+    name = "Join LiberCarta"
+    url = "/submit"
+    weight = 45
 

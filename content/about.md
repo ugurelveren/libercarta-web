@@ -46,7 +46,7 @@ We are not a storefront. We link directly to the author's own sales page or shop
 
 ## Our Name
 
-**Libercarta** is a word we made up: part *"liber"* (Latin for book or freedom), and part *"carta"* (paper or map). It's a symbol of how we see indie publishing: free, hand-drawn, exploratory.
+**LiberCarta** is a word we made up: part *"liber"* (Latin for book or freedom), and part *"carta"* (paper or map). It's a symbol of how we see indie publishing: free, hand-drawn, exploratory.
 
 A map made of books. A library made of brave voices.
 
@@ -62,4 +62,4 @@ You can:
 
 Thank you for being here. The story wouldn't be the same without you.
 
-*Libercarta is built with love, time, and purpose for the storytellers the world almost missed.*
+*LiberCarta is built with love, time, and purpose for the storytellers the world almost missed.*
