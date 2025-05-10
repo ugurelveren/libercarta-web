@@ -38,7 +38,7 @@ Whether you've published a chapbook, an experimental novel, a children's bedtime
 
 We keep it simple:
 
-1. Indie authors submit their work via our [submission form](https://tally.so/r/wdgoQA)
+1. Indie authors submit their work via our [submission form](/get-involved/join-the-authors/)
 2. We review, lightly curate, and feature books and authors on this site
 3. Readers explore and connect through books, bios, and future conversations
 
@@ -56,7 +56,7 @@ We're just getting started.
 
 You can:
 
-- [Submit your work](https://tally.so/r/wdgoQA)
+- [Submit your work](/get-involved/submit-your-book/)
 - Follow us for updates and new features
 - Or simply read, explore, and support the authors here
 
