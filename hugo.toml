@@ -10,7 +10,7 @@ theme = "expresslane"
     schema = true 
     twitter_cards = true 
     authorbox = true
-    pager = true
+    pager = false
 
   [Params.author]
     name = "Liber Carta"
@@ -47,6 +47,10 @@ theme = "expresslane"
     weight = 10
   [[menus.main]]
     name = "Join LiberCarta"
-    url = "/submit"
+    url = "/get-involved"
     weight = 45
+  [[menus.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 60
 
