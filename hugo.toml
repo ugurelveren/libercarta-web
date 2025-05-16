@@ -15,7 +15,9 @@ theme = "expresslane"
   [Params.author]
     name = "Liber Carta"
     bio = "Liber Carta is a quiet advocate for independent voices in publishing. Built to celebrate indie authors and their stories, Liber Carta curates, connects, and champions books that deserve to be seen."
-
+[Params.thumbnail]
+  # Show thumbnail only for list items
+  visibility = ["list","single"]
 
 [Params.logo]
   title = "LiberCarta" # Logo title, otherwise will use site title
